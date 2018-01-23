@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dir 1 on Teste</title>
+    <link>http://testeHugo.github.io/dir1/</link>
+    <description>Recent content in Dir 1 on Teste</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2017 13:00:19 -0200</lastBuildDate>
+    
+	<atom:link href="http://testeHugo.github.io/dir1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>F</title>
+      <link>http://testeHugo.github.io/dir1/f/</link>
+      <pubDate>Mon, 22 Jan 2018 23:01:12 -0200</pubDate>
+      
+      <guid>http://testeHugo.github.io/dir1/f/</guid>
+      <description>outro teste no hugo pages</description>
+    </item>
+    
+    <item>
+      <title>E</title>
+      <link>http://testeHugo.github.io/dir1/e/</link>
+      <pubDate>Mon, 22 Jan 2018 22:48:21 -0200</pubDate>
+      
+      <guid>http://testeHugo.github.io/dir1/e/</guid>
+      <description>arquivo E</description>
+    </item>
+    
+    <item>
+      <title>Arquivo</title>
+      <link>http://testeHugo.github.io/dir1/arquivo/</link>
+      <pubDate>Mon, 22 Jan 2018 22:44:05 -0200</pubDate>
+      
+      <guid>http://testeHugo.github.io/dir1/arquivo/</guid>
+      <description>este e um arquivo chamado arquivo</description>
+    </item>
+    
+    <item>
+      <title>Teste</title>
+      <link>http://testeHugo.github.io/dir1/teste/</link>
+      <pubDate>Mon, 22 Jan 2018 22:34:47 -0200</pubDate>
+      
+      <guid>http://testeHugo.github.io/dir1/teste/</guid>
+      <description>Este e um arquivo markdown chamado teste.md</description>
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>http://testeHugo.github.io/dir1/c/</link>
+      <pubDate>Wed, 20 Dec 2017 12:48:40 -0200</pubDate>
+      
+      <guid>http://testeHugo.github.io/dir1/c/</guid>
+      <description>asdasdasd</description>
+    </item>
+    
+    <item>
+      <title>B</title>
+      <link>http://testeHugo.github.io/dir1/b/</link>
+      <pubDate>Wed, 20 Dec 2017 12:24:13 -0200</pubDate>
+      
+      <guid>http://testeHugo.github.io/dir1/b/</guid>
+      <description>Vendo se o teste esta dando serto  Legenda da foto   if (server == true) {localhost:1313(); youtube(); sucesso(); } 
+   this is dir1/b.md</description>
+    </item>
+    
+  </channel>
+</rss>

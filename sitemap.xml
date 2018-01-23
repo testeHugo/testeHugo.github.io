@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://testeHugo.github.io/dir1/f/</loc>
+    <lastmod>2018-01-22T23:01:12-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://testeHugo.github.io/dir1/e/</loc>
+    <lastmod>2018-01-22T22:48:21-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://testeHugo.github.io/dir1/arquivo/</loc>
+    <lastmod>2018-01-22T22:44:05-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://testeHugo.github.io/dir1/teste/</loc>
+    <lastmod>2018-01-22T22:34:47-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://testeHugo.github.io/a/</loc>
+    <lastmod>2017-12-22T12:21:25-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://testeHugo.github.io/dir1/</loc>
+    <lastmod>2017-12-20T13:00:19-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://testeHugo.github.io/</loc>
+    <lastmod>2017-12-20T13:00:19-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://testeHugo.github.io/dir1/dir2/</loc>
+    <lastmod>2017-12-20T12:57:58-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://testeHugo.github.io/dir3/f/</loc>
+    <lastmod>2017-12-20T12:49:31-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://testeHugo.github.io/dir3/e/</loc>
+    <lastmod>2017-12-20T12:49:28-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://testeHugo.github.io/dir1/c/</loc>
+    <lastmod>2017-12-20T12:48:40-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://testeHugo.github.io/dir1/dir2/d/</loc>
+    <lastmod>2017-12-20T12:47:47-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://testeHugo.github.io/dir1/b/</loc>
+    <lastmod>2017-12-20T12:24:13-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://testeHugo.github.io/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://testeHugo.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://testeHugo.github.io/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://testeHugo.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://testeHugo.github.io/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://testeHugo.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://testeHugo.github.io/dir3/</loc>
+    <lastmod>2017-12-20T12:49:31-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

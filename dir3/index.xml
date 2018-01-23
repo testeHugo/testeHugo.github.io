@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dir3s on Teste</title>
+    <link>http://testeHugo.github.io/dir3/</link>
+    <description>Recent content in Dir3s on Teste</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2017 12:49:31 -0200</lastBuildDate>
+    
+	<atom:link href="http://testeHugo.github.io/dir3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>F</title>
+      <link>http://testeHugo.github.io/dir3/f/</link>
+      <pubDate>Wed, 20 Dec 2017 12:49:31 -0200</pubDate>
+      
+      <guid>http://testeHugo.github.io/dir3/f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E</title>
+      <link>http://testeHugo.github.io/dir3/e/</link>
+      <pubDate>Wed, 20 Dec 2017 12:49:28 -0200</pubDate>
+      
+      <guid>http://testeHugo.github.io/dir3/e/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
